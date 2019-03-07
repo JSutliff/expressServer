@@ -1,0 +1,25 @@
+{
+  "name": "expressServer",
+  "version": "1.0.0",
+  "description": "Simple express serve with handlebars ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSutliff/expressServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSutliff/expressServer/issues"
+  },
+  "homepage": "https://github.com/JSutliff/expressServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
